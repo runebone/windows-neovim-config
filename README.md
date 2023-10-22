@@ -1,1 +1,1 @@
-Open Neovim and run `:echo stdpath('config')`. The directory that shows is where you should put your `init.vim` file. It does not exist until you create it. [[1](https://github.com/neovim/neovim/issues/16024)]
+Open Neovim and run `:echo stdpath('config')`. The directory that shows is where you should put your `init.vim` file. It does not exist until you create it. [[Source](https://github.com/neovim/neovim/issues/16024)]
